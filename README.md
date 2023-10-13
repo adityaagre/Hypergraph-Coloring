@@ -1,5 +1,3 @@
 # Hypergraph-Coloring
 
-Jupyter notebook has stuff up until the sorting thing.
-
-That needs to be completed 
+New jupyter notebook has code up until proper coloring without multithread systems
