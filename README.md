@@ -1,3 +1,3 @@
 # Hypergraph-Coloring
 
-New jupyter notebook has code up until proper coloring without multithread systems
+Developing an optimized hypergraph coloring algorithm.
